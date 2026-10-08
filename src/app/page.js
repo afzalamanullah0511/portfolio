@@ -21,7 +21,7 @@ export default function Home() {
           interests, and what you build.
         </p>
 
-        <a className="resume-button" href="/resume.pdf" target="_blank">
+        <a className="resume-button" href="/portfolio/resume.pdf" target="_blank">
           Open Resume ↗
         </a>
       </section>
@@ -45,7 +45,7 @@ export default function Home() {
     </div>
 
     <div className="about-photo">
-      <img src="/af.jpeg" alt="Profile photo" />
+      <img src="/portfolio/af.jpeg" alt="Profile photo" />
     </div>
   </div>
 </section>
