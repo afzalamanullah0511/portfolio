@@ -14,7 +14,7 @@ export default function Home() {
       <section className="hero">
         <p className="eyebrow">HELLO, I'M</p>
 
-        <h1>Afzal blah blah</h1>
+        <h1>Afzal Amanullah</h1>
 
         <p className="intro">
           A short introduction about yourself, your work,
